@@ -1,0 +1,10 @@
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\bin\Debug\TaskManagePro.BLL.dll
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\bin\Debug\TaskManagePro.BLL.pdb
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\bin\Debug\TaskManagePro.DAL.dll
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\bin\Debug\TaskManagePro.DAL.pdb
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\obj\Debug\TaskManagePro.BLL.csprojAssemblyReference.cache
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\obj\Debug\TaskManagePro.BLL.csproj.CoreCompileInputs.cache
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\obj\Debug\TaskManagePro.BLL.csproj.CopyComplete
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\obj\Debug\TaskManagePro.BLL.dll
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\obj\Debug\TaskManagePro.BLL.pdb
+C:\备份\作业\TaskManagePro\TaskManagePro.BLL\bin\Debug\TaskManagePro.DAL.dll.config

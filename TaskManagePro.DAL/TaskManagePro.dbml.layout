@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TaskManagePro">
+  <DataContextMoniker Name="/TaskManageProDataContext" />
+  <nestedChildShapes>
+    <classShape Id="46bfa8e6-fcf5-45d7-a941-88de4bc309a0" absoluteBounds="6.375, 2.25, 2, 1.7220992024739581">
+      <DataClassMoniker Name="/TaskManageProDataContext/Users" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d226faa7-9235-485a-b220-e8b41be4b30b" absoluteBounds="6.39, 2.71, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd9aaff4-54b8-4e32-a75a-35f8d2a4db80" absoluteBounds="0.75, 0.75, 2, 1.3525109863281251">
+      <DataClassMoniker Name="/TaskManageProDataContext/Board" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8f4b281-e53a-444a-ae41-be3718ecf15b" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a63986b-a17f-45bf-b8e3-d19507e87c6d" absoluteBounds="0.75, 3.75, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/TaskManageProDataContext/Ecs" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9bf45385-a871-4860-b1fb-8a477b85c924" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a860143c-73ca-4a70-998c-a24edc73d478" absoluteBounds="3.75, 4.75, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/TaskManageProDataContext/Person" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b7ea5b1-b819-4ee2-a3b3-906d6f3f59e2" absoluteBounds="3.765, 5.21, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71202dc6-a9b2-4d73-b32d-d839f917ed98" absoluteBounds="6.75, 4.75, 2, 1.7220992024739577">
+      <DataClassMoniker Name="/TaskManageProDataContext/Users1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb6d1234-34a5-42c1-8e75-a2f37618c3bb" absoluteBounds="6.765, 5.21, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

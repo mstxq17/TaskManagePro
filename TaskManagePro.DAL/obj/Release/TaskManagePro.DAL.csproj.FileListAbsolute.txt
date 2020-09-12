@@ -1,0 +1,6 @@
+C:\备份\作业\TaskManagePro\TaskManagePro.DAL\bin\Release\TaskManagePro.DAL.dll
+C:\备份\作业\TaskManagePro\TaskManagePro.DAL\bin\Release\TaskManagePro.DAL.pdb
+C:\备份\作业\TaskManagePro\TaskManagePro.DAL\obj\Release\TaskManagePro.DAL.csproj.CoreCompileInputs.cache
+C:\备份\作业\TaskManagePro\TaskManagePro.DAL\obj\Release\TaskManagePro.DAL.dll
+C:\备份\作业\TaskManagePro\TaskManagePro.DAL\obj\Release\TaskManagePro.DAL.pdb
+C:\备份\作业\TaskManagePro\TaskManagePro.DAL\bin\Release\TaskManagePro.DAL.dll.config
